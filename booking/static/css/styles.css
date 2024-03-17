@@ -1,0 +1,8 @@
+#sidebar {
+     border-right: solid;
+     border-bottom: none;
+     border-color: #6c757d;
+     position:relative;
+     padding-left: 20px;
+     font-size: 15px;
+}
